@@ -14,7 +14,8 @@ This wasn't my first ever project working with HTML - not by a long shot. The st
 * How to [install OpenSSH][Microsoft get started guide openSSH] via GUI on a Windows laptop to which one lacks admin access. 
 * How to [generate a public/private SSH key pair][GitHub SSH keygen instructions] for SSH access without requiring a password, both to my development environment (Linode / Akamai) and to GitHub, from within VSCode.
 * Where to find and how to [edit the hosts file on Windows][Wikiversity hosts file], to enable SSH access by hostname rather than by IP address.  
-* How to [edit remote files in VSCode][VSCode remote dev SSH docs] over SSH. 
+* How to [edit remote files in VSCode][VSCode remote dev SSH docs] over SSH.
+* How to set up the [Apache Web Server][Linode Apache setup docs] to enable live preview of changes made to files on the remote VPS.  
 
 ## HTML
 
@@ -22,7 +23,7 @@ This wasn't my first ever project working with HTML - not by a long shot. The st
 
 # Acknowledgements
 
-All images used on this website were generated using Bing Image Creator, which is an AI text-to-image tool powered by [DALL-E 3][ChatGPT homepage for DALL-E 3]
+All images used on this website were generated using Bing Image Creator, which is an AI text-to-image tool powered by [DALL-E 3][ChatGPT homepage for DALL-E 3].
 
 [TOP paths]: https://theodinproject.com/paths
 [recipes project assignment]: https://www.theodinproject.com/lessons/foundations-recipes
@@ -33,3 +34,4 @@ All images used on this website were generated using Bing Image Creator, which i
 [Wikiversity hosts file]: https://en.wikiversity.org/wiki/Hosts_file/Edit#:~:text=The%20hosts%20file%20is%20a,System32%5Cdrivers%5Cetc%20folder.
 [TOP HTML boilerplate]: https://www.theodinproject.com/lessons/foundations-html-boilerplate
 [ChatGPT homepage for DALL-E 3]: https://openai.com/dall-e-3
+[Linode Apache setup docs]: https://www.linode.com/docs/guides/apache-configuration-basics/
