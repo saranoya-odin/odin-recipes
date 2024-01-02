@@ -8,8 +8,8 @@ body {
 }
 
 nav {
-    background-color: rgba(255, 255, 255, 0.75);
-    height: 90vh;
+    background-color: rgba(76, 108, 85, 0.75);
+    height: 100vh;
 }
 
 main {
@@ -17,5 +17,5 @@ main {
     background-image: url('../images/background.png');
     background-size: contain;
     background-repeat: no-repeat;
-    height: 90vh;
+    height: 100vh;
 }

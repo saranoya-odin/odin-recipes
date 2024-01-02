@@ -34,4 +34,4 @@ All images used on this website were generated using Bing Image Creator, which i
 [Wikiversity hosts file]: https://en.wikiversity.org/wiki/Hosts_file/Edit#:~:text=The%20hosts%20file%20is%20a,System32%5Cdrivers%5Cetc%20folder.
 [TOP HTML boilerplate]: https://www.theodinproject.com/lessons/foundations-html-boilerplate
 [ChatGPT homepage for DALL-E 3]: https://openai.com/dall-e-3
-[Linode Apache setup docs]: https://www.linode.com/docs/guides/apache-configuration-basics/
+[Linode Apache setup docs]: https://www.linode.com/docs/guides/how-to-install-apache-web-server-ubuntu-18-04/
