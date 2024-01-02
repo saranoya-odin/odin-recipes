@@ -10,9 +10,10 @@ body {
 
 nav {
     background-color: rgba(255, 255, 255, 0.25);
-    height: 100vh;
+    height: 90vh;
 }
 
 main {
-    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.25);
+    height: 90vh;
 }
