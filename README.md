@@ -20,6 +20,10 @@ This wasn't my first ever project working with HTML - not by a long shot. The st
 
 * How to generate [HTML boilerplate][TOP HTML boilerplate] in VSCode.
 
+# Acknowledgements
+
+All images used on this website were generated using Bing Image Creator, which is an AI text-to-image tool powered by [DALL-E 3][ChatGPT homepage for DALL-E 3]
+
 [TOP paths]: https://theodinproject.com/paths
 [recipes project assignment]: https://www.theodinproject.com/lessons/foundations-recipes
 [Linode getting started guide]: https://www.linode.com/docs/products/compute/compute-instances/guides/set-up-and-secure/
@@ -28,3 +32,4 @@ This wasn't my first ever project working with HTML - not by a long shot. The st
 [GitHub SSH keygen instructions]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 [Wikiversity hosts file]: https://en.wikiversity.org/wiki/Hosts_file/Edit#:~:text=The%20hosts%20file%20is%20a,System32%5Cdrivers%5Cetc%20folder.
 [TOP HTML boilerplate]: https://www.theodinproject.com/lessons/foundations-html-boilerplate
+[ChatGPT homepage for DALL-E 3]: https://openai.com/dall-e-3
