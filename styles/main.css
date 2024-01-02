@@ -15,4 +15,10 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    padding: 1%;
+}
+
+#recipe-card {
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 20px;
 }
