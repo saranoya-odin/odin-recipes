@@ -1,5 +1,6 @@
 body {
     background-image: url('../images/background.png');
+    background-size: contain;
     display: grid;
     grid-template-columns: 20% 65%;
     grid-gap: 5%;
