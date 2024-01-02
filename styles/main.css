@@ -15,7 +15,6 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
-    padding: 1%;
 }
 
 #recipe-card {
